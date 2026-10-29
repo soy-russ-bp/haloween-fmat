@@ -18,9 +18,9 @@ const careers = [
   "Ingeniería en Computación",
   "Licenciatura en Ciencias de la Computación",
   "Licenciatura en Matemáticas",
-  "Licenciatura en Matemáticas Aplicadas",
+  "Licenciatura en Enseñanzas de Matemáticas",
   "Licenciatura en Actuaría",
-  "Otra carrera de FMAT"
+  
 ];
 
 function normalizar(texto) {
